@@ -177,6 +177,13 @@
 			"github": "Daniel-Hug/tabbed-panels"
 		},
 		{
+			"name": "timepicker.js",
+			"author": "Matt Ross",
+			"url": "http://mattross.id.au/timepicker.js/",
+			"description": "Time picker widget. Allows users to select a time from a drop down menu.",
+			"github": "mattross-id-au/timepicker.js"
+		},
+		{
 			"name": "togglr",
 			"author": "stefanoio",
 			"url": "https://github.com/stefanoio/togglr",
